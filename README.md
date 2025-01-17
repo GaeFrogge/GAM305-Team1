@@ -8,7 +8,7 @@ Module Two Team 1 Project Plan
 
 Hayley - Programming
 Chris - Lead / Programming / Float
-Zombi - Modeling / texturing
+Miranda - Modeling / texturing
 Aidin - Level design
 Cleve - float
 
