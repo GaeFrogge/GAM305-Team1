@@ -1,9 +1,13 @@
 Project Log Assignments
 
+
+
+Module 2: Team Formation and Project Design
+
 -Notes: 
 
 Hayley - Programming
-Chris - Repo
+Chris - Lead / Programming / Float
 Zombi - Modeling / texturing
 Aidin - Level design
 Cleve - float
