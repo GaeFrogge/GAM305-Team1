@@ -10,7 +10,7 @@ Hayley - Programming
 Chris - Lead / Programming / Float
 Miranda - Modeling / texturing
 Aidin - Level design
-Cleve - float
+Cleve - float/Level design
 
 -Content: 
 
