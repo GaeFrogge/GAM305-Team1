@@ -9,8 +9,8 @@ Module Two Team 1 Project Plan
 Hayley - Programming
 Chris - Lead / Programming / Float
 Miranda - Modeling / texturing
-Aidin - Level design
-Cleve - float
+Aidan - Level design
+Cleve - float/Level design
 
 -Content: 
 
