@@ -203,11 +203,13 @@ that was for the alpha deadline
 # Module Five Project Log - Team Reflection
 
 ## Team Members
-    - Christopher : Lead, UI/UX
-    - Hayley : Programming, AI
-    - Cleve : Environment
-    - Aidan : Environment
-    - Miranda : Art, Enemy Models, Pickups
+
+- Roles
+	- Christopher : Lead, UI/UX
+	- Hayley : Programming, AI
+	- Cleve : Environment
+	- Aidan : Environment
+	- Miranda : Art, Enemy Models, Pickups
 
 ### What went well
 
@@ -228,15 +230,21 @@ that was for the alpha deadline
 	- Pickup materials adjusted and improved
 
 ### What Went Wrong
+
+- These things could have gone better
 	- Could have created an asset spreadsheet to better inform the team of where to focus efforts
 	- Issues with rigging models
 	- Not meeting current alpha stage goals
 	- Slightly behind on beta stage goals
 
 ### Integration of Previous Evaluations
+
+- Integration
 	- Creating asset spreadsheet, covering what assets we have, and still need to meet our release goals
 	
 ### Do Differently
+
+- We could have done the following differently
 	- Creating a more organized game design document, with checklists, and better documentation to more easily communicate what is needed
 	- Version control - ensuring everyone is on the correct version of UE from day one
 	- More clear deadlines - better laid out plans for what to have done at specific times
@@ -244,22 +252,27 @@ that was for the alpha deadline
 	- Better organization of discord channels
 
 ### Tools/Techniques Not Helpful?
+
+- We reflected on tools and techniques and found that there were tools available to make this smoother
 	- More so not implementing an array of tools and techniques highlighted where we could have done better within the project. We did not find any tools or techniques provided to be unhelpful
 
 ### Beta Stage Status Assessment
+
+- Beta
 	- Beta Stage goals were mostly met, Some last minute polish and finalizing all intended mechanics and animations for final release.
 	- Asset Spreadsheet URL : https://docs.google.com/spreadsheets/d/1sENu1GCSPzAS0iUhPI7fuPlksencdNji-TArxZgN9bk/edit?gid=0#gid=0
 
 ### Outline for Beta Release
+
 Module 5 Outline
 
 Hello everyone, I am doing this writeup to help us stay on pace for our beta release at the end of next week (module 5)
 
- -I. Programming - Primarily the enemy ai needs to target and 'attack' the player class, as well as incorporating relevant mechanics. Influenza should explode when near a player, Phages should shoot at the player, and Pneuma should multiply at some given rate. Pickups should have their separate functions, and should maybe spin in place or some other effect. and lastly, we need a base HP and HUD implemented, as well as a main menu (I will add my graphics to that system once implemented ^_^ )
+ I. Programming - Primarily the enemy ai needs to target and 'attack' the player class, as well as incorporating relevant mechanics. Influenza should explode when near a player, Phages should shoot at the player, and Pneuma should multiply at some given rate. Pickups should have their separate functions, and should maybe spin in place or some other effect. and lastly, we need a base HP and HUD implemented, as well as a main menu (I will add my graphics to that system once implemented ^_^ )
 
- -II. Modeling - texturing and animations for the 3 enemy models. Pickups do not need to be animated as that can be handled in the editor. I know rigging will be the pain that it is so reach with any ideas or concerns. 
+ II. Modeling - texturing and animations for the 3 enemy models. Pickups do not need to be animated as that can be handled in the editor. I know rigging will be the pain that it is so reach with any ideas or concerns. 
 
- -III. Environment - Keep up the good work, its time to replace the blocked in features with appropriate assets, and not just primitives. I really like the direction I'm seeing here, so keep fleshing it out. for lighting, add an ambient light source, and uncheck casts shadows, then play with the amount of emission and color, it should help with the 'too dark' areas.
+ III. Environment - Keep up the good work, its time to replace the blocked in features with appropriate assets, and not just primitives. I really like the direction I'm seeing here, so keep fleshing it out. for lighting, add an ambient light source, and uncheck casts shadows, then play with the amount of emission and color, it should help with the 'too dark' areas.
 
 Once again reach out to me with any issues, I will be happy to help with anything you may need, or any questions you may have. 
 Thank you all for your hard work, and I remain excited to see what we can make together!
