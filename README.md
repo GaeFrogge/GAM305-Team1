@@ -205,7 +205,7 @@ that was for the alpha deadline
 ## Team Members
 
 - Roles
-	- Christopher : Lead, UI/UX
+	- Christopher : Lead, UI/UX, Programming/AI
 	- Hayley : Programming, AI
 	- Cleve : Environment
 	- Aidan : Environment
